@@ -1,8 +1,31 @@
-Repository for resent4-0.vercel.app
+> [!IMPORTANT]
+> Please consider following me for more like this.
+# 
 
-Host repository is https://gitlab.com/RadioactivePotato/Resent4-Patch4
+<h1 align="center"><strong>Resent Client v4.0</strong></h1>
+<h3 align="center">(Minecraft 1.8)</h3>
+<p align="center">It's a way of life; It's the reason I exist.</p>
 
 
-This is the original files for Resent client v4 (Patch 4)
+# Features:
+- Singleplayer (not recommened)
+- Multiplayer (recommended)
+- Best FPS on any device
+- Item Physics
+- Capes
+- Cosmetics
+- Various stats stuff
+- Better Hurt Camera
+- Saturation
+- Better Tab List
+- Full Bright
+- No Swing Delay
+- Minimal Bobbing
+- No Rain
+- TNT Timer
+- And much more!
 
-The assets.epk and classes.js source is changed to fix Vercel file transfer data limit.
+# Deployment
+> Resent Client v4.0 can be used in places like csb.app, or anywhere that allows you to import from github. 
+
+<h1 align="center">Enjoy!</h1>
